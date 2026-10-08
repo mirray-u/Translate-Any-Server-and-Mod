@@ -2,7 +2,7 @@
 
 **Translate Minecraft text across items, chat, mods and multiplayer servers — with Google, without an API key or a local AI model.**
 
-[Download the mod](https://github.com/mirray-u/SimpleTranslate-Web/releases/latest) · [Русское описание](README.ru.md) · [Report an issue](https://github.com/mirray-u/SimpleTranslate-Web/issues)
+[Download the mod](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/releases/latest) · [Русское описание](README.ru.md) · [Report an issue](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/issues)
 
 **Minecraft Java 26.2 · Fabric · Free and open source · MIT**
 
@@ -118,7 +118,7 @@ Press K in a supported interface. This example also shows current limitations: c
 ## Install and start
 
 1. Use **Minecraft Java Edition 26.2** with **Fabric Loader** and **Fabric API for 26.2**. Tested with Loader **0.19.5**, Fabric API **0.155.2+26.2**, and Java **25**.
-2. Download the `.jar` from [Releases](https://github.com/mirray-u/SimpleTranslate-Web/releases/latest) and put it in your instance's `mods` folder. Remove any other SimpleTranslate JAR first: both use the same mod ID.
+2. Download the `.jar` from [Releases](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/releases/latest) and put it in your instance's `mods` folder. Remove any other SimpleTranslate JAR first: both use the same mod ID.
 3. Start Minecraft. Google is already selected, the source language is automatic and the target is Russian. Change the languages in settings if needed.
 4. Open settings with **U** by default, or through optional **Mod Menu**. No server-side installation is needed for client translation.
 
