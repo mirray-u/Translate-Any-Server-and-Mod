@@ -1,0 +1,117 @@
+[
+  {
+    "image": "docs/images/item-wynn-en.png",
+    "capture": "2026-10-08 123644",
+    "sha256": "554f164ea9a83d39ec300f670a23803c39a46f7c170d7d7c08043d8a7187f652"
+  },
+  {
+    "image": "docs/images/item-wynn-ru.png",
+    "capture": "2026-10-08 123708",
+    "sha256": "c3f86af4154da3d328200c1e7670c59388421befa92590ea1fdb720e8c36f635"
+  },
+  {
+    "image": "docs/images/item-wynn-zh.png",
+    "capture": "2026-10-08 123657",
+    "sha256": "6f60ec1e268ad39a6f6a9d471ed07fdd4abe728a1c62d76387bce86cfa9ac8e9"
+  },
+  {
+    "image": "docs/images/dialogue-wynn-en.png",
+    "capture": "2026-10-08 122748",
+    "sha256": "886a0073df2c747b35b46c376df00cfa2cf42a7e413f7e705c623ea25365be1d"
+  },
+  {
+    "image": "docs/images/dialogue-wynn-ru.png",
+    "capture": "2026-10-08 122759",
+    "sha256": "da19527bbc644de15be0eb9aa51737c476d2afc7a7ab69911a301fe980082d33"
+  },
+  {
+    "image": "docs/images/dialogue-wynn-zh.png",
+    "capture": "2026-10-08 123600",
+    "sha256": "50b3e457f648317e98832c4378482ce6a5e638330fc35a4ea8ebe6c0936c39a6"
+  },
+  {
+    "image": "docs/images/npc-wynn-en.png",
+    "capture": "2026-10-08 122518",
+    "sha256": "e145782ba3f238f713973bd99586c534b0c836c222f04424d3d16688e9da3527"
+  },
+  {
+    "image": "docs/images/npc-wynn-ru.png",
+    "capture": "2026-10-08 122524",
+    "sha256": "e4e15fd988729b85cd64bf3380ae9ae8f7a59ca0f82eabb09284c26f3952af2b"
+  },
+  {
+    "image": "docs/images/chat-hypixel-en.png",
+    "capture": "2026-10-08 123049",
+    "sha256": "ea1c2ace89b37eae24e4340d96e6a7848970db50dfe5180f977b57e292e14c92"
+  },
+  {
+    "image": "docs/images/chat-hypixel-ru.png",
+    "capture": "2026-10-08 123100",
+    "sha256": "f08c72c5691be2d4b9dfeab88b595c2ced7cb514964b2ca1869a88a6a86c80f9"
+  },
+  {
+    "image": "docs/images/chat-hypixel-zh.png",
+    "capture": "2026-10-08 123147",
+    "sha256": "5f5e28032323eec4a1768ed2ad138d93edf34f3c197268fff30b09a9199e1a77"
+  },
+  {
+    "image": "docs/images/shine-en.png",
+    "capture": "2026-10-08 123742",
+    "sha256": "d86b8faffc16f93b63f5248c092dd9636ffdc4bd9d945f7ec4a40f32b4fcd705"
+  },
+  {
+    "image": "docs/images/shine-ru.png",
+    "capture": "2026-10-08 123754",
+    "sha256": "fac2b822bdcafb6c5794816786f3328b569c24d8c6660d348ed0049978fcd55f"
+  },
+  {
+    "image": "docs/images/shine-zh.png",
+    "capture": "2026-10-08 121537",
+    "sha256": "636b5de9d91c8da6e7f58988fb714784e1569c3c158f5c2651282e58558f6438"
+  },
+  {
+    "image": "docs/images/item-hypixel-en.png",
+    "capture": "2026-10-08 122944",
+    "sha256": "d3e6c1228fb926cfcdee605b6b8120fcf11be5878feecc0240460de912909bf5"
+  },
+  {
+    "image": "docs/images/item-hypixel-ru.png",
+    "capture": "2026-10-08 122952",
+    "sha256": "d59374460667d3317296aadc1419dfe83b8429cf20614b372b2e53388c6a15c0"
+  },
+  {
+    "image": "docs/images/hud-hypixel-en.png",
+    "capture": "2026-10-08 123300",
+    "sha256": "1b2cfbab88885c57c0278900e0f08d24cde8b5453f115587a533895f78b6bba0"
+  },
+  {
+    "image": "docs/images/hud-hypixel-ru.png",
+    "capture": "2026-10-08 123308",
+    "sha256": "dc592e718845896bf62f32744f741e2fa7ff2d5949ae6d38d1620380826312c3"
+  },
+  {
+    "image": "docs/images/world-wynn-en.png",
+    "capture": "2026-10-08 121340",
+    "sha256": "24a47fcf9b1c2de299fb76fb24df62f18e3bcc8eebda9823fde7604b407e20b1"
+  },
+  {
+    "image": "docs/images/world-wynn-ru.png",
+    "capture": "2026-10-08 121352",
+    "sha256": "1742b6cf69dc2cefe49da0fe2d94e342ccc6f28ea621d459c21adc5a1e9fe930"
+  },
+  {
+    "image": "docs/images/shop-hypixel-en.png",
+    "capture": "2026-10-08 123334",
+    "sha256": "6abd3d578b6724e9506b90c5accfe9bda2936d4c29d9d61d5cb2f330028ed38b"
+  },
+  {
+    "image": "docs/images/shop-hypixel-ru.png",
+    "capture": "2026-10-08 123343",
+    "sha256": "eebdb205974730fd7c88908da622eb34ea3838f506c8a829813fde085ae30d11"
+  },
+  {
+    "image": "docs/images/shop-hypixel-zh.png",
+    "capture": "2026-10-08 123358",
+    "sha256": "c4932db7242830e6fd7517b7c392bfe42d401e67100e284a633d91cec1cfab46"
+  }
+]

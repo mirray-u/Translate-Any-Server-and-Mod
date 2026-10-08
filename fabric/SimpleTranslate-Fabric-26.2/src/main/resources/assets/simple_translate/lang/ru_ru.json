@@ -1,0 +1,18 @@
+{
+  "screen.simple_translate.online.title": "Online translation",
+  "screen.simple_translate.online.tooltip": "Google Translate without an API key or local model",
+  "screen.simple_translate.online.provider": "Provider",
+  "screen.simple_translate.online.google": "Google (no key)",
+  "screen.simple_translate.online.ai": "Model API",
+  "screen.simple_translate.online.no_key": "Google needs no API key or local model.",
+  "screen.simple_translate.online.privacy": "Texts selected for translation are sent to Google.",
+  "screen.simple_translate.online.limits": "On service errors, the original stays visible.",
+  "screen.simple_translate.online.test": "Test connection",
+  "screen.simple_translate.online.testing": "Testing...",
+  "screen.simple_translate.online.ok": "Connection OK (%s ms)",
+  "screen.simple_translate.online.failed": "Translation error: %s",
+  "screen.simple_translate.online.ai_settings": "Advanced: model API settings",
+  "screen.simple_translate.online.captions": "Wynncraft dialogue subtitles",
+  "screen.simple_translate.main.translation_api": "Online translator",
+  "screen.simple_translate.online.nativeDialogue": "Dialogue inside Wynncraft frame"
+}

@@ -1,0 +1,47 @@
+# Product build outputs and Gradle state
+/*/SimpleTranslate-*/build/
+/*/SimpleTranslate-*/.gradle/
+/*/SimpleTranslate-*/bin/
+/*/SimpleTranslate-*/out/
+
+# Product runtime and launcher-generated state
+/*/SimpleTranslate-*/run/
+/*/SimpleTranslate-*/runs/
+/*/SimpleTranslate-*/logs/
+/*/SimpleTranslate-*/cache/
+/*/SimpleTranslate-*/crash-reports/
+/*/SimpleTranslate-*/saves/
+/*/SimpleTranslate-*/options.txt
+/*/SimpleTranslate-*/usercache.json
+
+# Product IDE state
+/*/SimpleTranslate-*/.idea/
+/*/SimpleTranslate-*/.vscode/
+/*/SimpleTranslate-*/.eclipse/
+/*/SimpleTranslate-*/.settings/
+/*/SimpleTranslate-*/*.iml
+/*/SimpleTranslate-*/.classpath
+/*/SimpleTranslate-*/.project
+
+# Release staging: jars collected from every product build, plus their checksums
+/dist/
+
+# Generated artifacts
+*.log
+*.tmp
+*.bak
+*.zip
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Local validation and screenshots
+_codex_validation_logs/
+mc-screen*.png
+neoforge-*-installer.jar.log
+/*/SimpleTranslate-*/runclient-check.args
+/*/SimpleTranslate-*/runclient-check-screenshot-*.png
+/*/SimpleTranslate-*/_baseline_java_list.txt
+
+# Local publishing session state (contains mcmod.cn site cookies - never commit)
+/release-assets/mcmod-state.json
+/release-assets/modfile-main.js
