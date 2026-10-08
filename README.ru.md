@@ -1,4 +1,4 @@
-# SimpleTranslate Web
+# Mods & Servers - In Your Language
 
 **Перевод текстов Minecraft: предметов, чата, модов и серверов — через Google, без API-ключа и локальной нейросети.**
 

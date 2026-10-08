@@ -1,4 +1,4 @@
-# SimpleTranslate Web
+# Mods & Servers - In Your Language
 
 **Translate Minecraft text across items, chat, mods and multiplayer servers — with Google, without an API key or a local AI model.**
 
