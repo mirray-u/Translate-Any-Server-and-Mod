@@ -6,7 +6,7 @@ Translate Minecraft chat, items, NPC dialogue and mod interfaces with Google —
 
 ## See it in game
 
-These are real gameplay screenshots supplied by the maintainer. Images are unchanged; click any image to view it at full size. Translation is automatic and can contain mistakes or leave some labels untranslated.
+Real gameplay: English → Russian / Chinese. Click any screenshot to view it at full size.
 
 ### Items and their stats
 
@@ -14,7 +14,7 @@ Wynncraft item: English → Russian / Chinese. Colors, icons and numeric stats r
 
 <table>
 <tr><th>English — original</th><th>Russian</th><th>Chinese</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-en.png" width="280" alt="Items and their stats: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-ru.png" width="280" alt="Items and their stats: Russian"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-zh.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-wynn-zh.png" width="280" alt="Items and their stats: Chinese"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/a454e103633cd3b770a6faab51f0bc4fce4d37f5.png"><img src="https://cdn.modrinth.com/data/cached_images/a454e103633cd3b770a6faab51f0bc4fce4d37f5.png" width="280" alt="Items and their stats: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/3f47980a0cb6f6f4972bfe9fb7866add3134f935.png"><img src="https://cdn.modrinth.com/data/cached_images/3f47980a0cb6f6f4972bfe9fb7866add3134f935.png" width="280" alt="Items and their stats: Russian"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/0100df845ca15507a003eac96491e06fadefeb68.png"><img src="https://cdn.modrinth.com/data/cached_images/0100df845ca15507a003eac96491e06fadefeb68.png" width="280" alt="Items and their stats: Chinese"></a></td></tr>
 </table>
 
 ### Wynncraft dialogue inside the native frame
@@ -23,7 +23,7 @@ Translated prose appears inside the brown dialogue frame. The speaker label and 
 
 <table>
 <tr><th>English — original</th><th>Russian</th><th>Chinese</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-en.png" width="280" alt="Wynncraft dialogue inside the native frame: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-ru.png" width="280" alt="Wynncraft dialogue inside the native frame: Russian"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-zh.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/dialogue-wynn-zh.png" width="280" alt="Wynncraft dialogue inside the native frame: Chinese"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/c352bbd5afe04ca456c5e160c7f38cd7d8939f63.png"><img src="https://cdn.modrinth.com/data/cached_images/c352bbd5afe04ca456c5e160c7f38cd7d8939f63.png" width="280" alt="Wynncraft dialogue inside the native frame: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/e24fe8e31be756cab0c0cbab2394eda153c40e0e.png"><img src="https://cdn.modrinth.com/data/cached_images/e24fe8e31be756cab0c0cbab2394eda153c40e0e.png" width="280" alt="Wynncraft dialogue inside the native frame: Russian"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/ba8b13517e1fd1150257d90c4f16e20ea714a2e0.png"><img src="https://cdn.modrinth.com/data/cached_images/ba8b13517e1fd1150257d90c4f16e20ea714a2e0.png" width="280" alt="Wynncraft dialogue inside the native frame: Chinese"></a></td></tr>
 </table>
 
 ### NPC names
@@ -32,7 +32,7 @@ Bandit → Бандит. Entity-name translation can be disabled separately.
 
 <table>
 <tr><th>English — original</th><th>Russian</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/npc-wynn-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/npc-wynn-en.png" width="430" alt="NPC names: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/npc-wynn-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/npc-wynn-ru.png" width="430" alt="NPC names: Russian"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/a04af041e81291bed999b59a828fc5cc384ab123.png"><img src="https://cdn.modrinth.com/data/cached_images/a04af041e81291bed999b59a828fc5cc384ab123.png" width="430" alt="NPC names: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/a8f429921b5c1a980c3f3eb8e0dbaaf707fbd19e.png"><img src="https://cdn.modrinth.com/data/cached_images/a8f429921b5c1a980c3f3eb8e0dbaaf707fbd19e.png" width="430" alt="NPC names: Russian"></a></td></tr>
 </table>
 
 ### Chat and NPC messages
@@ -41,7 +41,7 @@ Hypixel SkyBlock messages in English, Russian and Chinese. Button mode lets you 
 
 <table>
 <tr><th>English — original</th><th>Russian</th><th>Chinese</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-en.png" width="280" alt="Chat and NPC messages: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-ru.png" width="280" alt="Chat and NPC messages: Russian"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-zh.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/chat-hypixel-zh.png" width="280" alt="Chat and NPC messages: Chinese"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/8a8dda417fce718c236e966fa01e3bb14bf2ce19.png"><img src="https://cdn.modrinth.com/data/cached_images/8a8dda417fce718c236e966fa01e3bb14bf2ce19.png" width="280" alt="Chat and NPC messages: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/bceaef1c5df64a092c01e81c3bc5dc5f53f704ef.png"><img src="https://cdn.modrinth.com/data/cached_images/bceaef1c5df64a092c01e81c3bc5dc5f53f704ef.png" width="280" alt="Chat and NPC messages: Russian"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/7ecc65f9911c3ed9bcadc4e7884fb938c737caa5.png"><img src="https://cdn.modrinth.com/data/cached_images/7ecc65f9911c3ed9bcadc4e7884fb938c737caa5.png" width="280" alt="Chat and NPC messages: Chinese"></a></td></tr>
 </table>
 
 ### Mod interfaces: Shine Studio
@@ -50,7 +50,7 @@ Press K in a supported interface. This example also shows current limitations: c
 
 <table>
 <tr><th>English — original</th><th>Russian</th><th>Chinese</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-en.png" width="280" alt="Mod interfaces: Shine Studio: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-ru.png" width="280" alt="Mod interfaces: Shine Studio: Russian"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-zh.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shine-zh.png" width="280" alt="Mod interfaces: Shine Studio: Chinese"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/e88b064fe6e7b13f35292dea354f4b4a197ec0c0.png"><img src="https://cdn.modrinth.com/data/cached_images/e88b064fe6e7b13f35292dea354f4b4a197ec0c0.png" width="280" alt="Mod interfaces: Shine Studio: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/3dcfc2aa0e0269133d0a46213dc6804706693ecf.png"><img src="https://cdn.modrinth.com/data/cached_images/3dcfc2aa0e0269133d0a46213dc6804706693ecf.png" width="280" alt="Mod interfaces: Shine Studio: Russian"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/16c76598d342041045f5361bbdfed4eae74d2b52_0.webp"><img src="https://cdn.modrinth.com/data/cached_images/16c76598d342041045f5361bbdfed4eae74d2b52_0.webp" width="280" alt="Mod interfaces: Shine Studio: Chinese"></a></td></tr>
 </table>
 
 <details>
@@ -60,28 +60,28 @@ Press K in a supported interface. This example also shows current limitations: c
 
 <table>
 <tr><th>English — original</th><th>Russian</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-hypixel-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-hypixel-en.png" width="430" alt="Hypixel SkyBlock item: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-hypixel-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/item-hypixel-ru.png" width="430" alt="Hypixel SkyBlock item: Russian"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/bde22df55e32af81046b295c74b5c520d0719ef1.png"><img src="https://cdn.modrinth.com/data/cached_images/bde22df55e32af81046b295c74b5c520d0719ef1.png" width="430" alt="Hypixel SkyBlock item: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/cda15f8f3548ed3f9ceaa68580bfe3368081dbea.png"><img src="https://cdn.modrinth.com/data/cached_images/cda15f8f3548ed3f9ceaa68580bfe3368081dbea.png" width="430" alt="Hypixel SkyBlock item: Russian"></a></td></tr>
 </table>
 
 #### Objectives and scoreboard
 
 <table>
 <tr><th>English — original</th><th>Russian</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/hud-hypixel-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/hud-hypixel-en.png" width="430" alt="Objectives and scoreboard: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/hud-hypixel-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/hud-hypixel-ru.png" width="430" alt="Objectives and scoreboard: Russian"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/ab68665325c4bf65e6ba5d1dbd725f709911c86b.png"><img src="https://cdn.modrinth.com/data/cached_images/ab68665325c4bf65e6ba5d1dbd725f709911c86b.png" width="430" alt="Objectives and scoreboard: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/cached_images/3c8eeeb48470de53a03e17dd9074a88ddf3c4a45.png"><img src="https://cdn.modrinth.com/data/cached_images/3c8eeeb48470de53a03e17dd9074a88ddf3c4a45.png" width="430" alt="Objectives and scoreboard: Russian"></a></td></tr>
 </table>
 
 #### Wynncraft world labels
 
 <table>
 <tr><th>English — original</th><th>Russian</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/world-wynn-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/world-wynn-en.png" width="430" alt="Wynncraft world labels: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/world-wynn-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/world-wynn-ru.png" width="430" alt="Wynncraft world labels: Russian"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/ZlUt90Wd/images/8f468b637ae6016fd954da676de8cf605850c8de.png"><img src="https://cdn.modrinth.com/data/ZlUt90Wd/images/8f468b637ae6016fd954da676de8cf605850c8de.png" width="430" alt="Wynncraft world labels: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/ZlUt90Wd/images/7b77a71002c399a8c8e8ecd15b98c9e36d0b6635.png"><img src="https://cdn.modrinth.com/data/ZlUt90Wd/images/7b77a71002c399a8c8e8ecd15b98c9e36d0b6635.png" width="430" alt="Wynncraft world labels: Russian"></a></td></tr>
 </table>
 
 #### Hypixel shop: three languages
 
 <table>
 <tr><th>English — original</th><th>Russian</th><th>Chinese</th></tr>
-<tr><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-en.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-en.png" width="280" alt="Hypixel shop: three languages: English — original"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-ru.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-ru.png" width="280" alt="Hypixel shop: three languages: Russian"></a></td><td valign="top"><a href="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-zh.png"><img src="https://raw.githubusercontent.com/mirray-u/Translate-Any-Server-and-Mod/main/docs/images/shop-hypixel-zh.png" width="280" alt="Hypixel shop: three languages: Chinese"></a></td></tr>
+<tr><td valign="top"><a href="https://cdn.modrinth.com/data/ZlUt90Wd/images/f70105965a73c8df871559fc465b492c15ad98ed.png"><img src="https://cdn.modrinth.com/data/ZlUt90Wd/images/f70105965a73c8df871559fc465b492c15ad98ed.png" width="280" alt="Hypixel shop: three languages: English — original"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/ZlUt90Wd/images/ab4003174f3d7553141026a2620e0d7f0972b42e.png"><img src="https://cdn.modrinth.com/data/ZlUt90Wd/images/ab4003174f3d7553141026a2620e0d7f0972b42e.png" width="280" alt="Hypixel shop: three languages: Russian"></a></td><td valign="top"><a href="https://cdn.modrinth.com/data/ZlUt90Wd/images/2e0aeab9403675de67ce4fa61262005f5984d465.png"><img src="https://cdn.modrinth.com/data/ZlUt90Wd/images/2e0aeab9403675de67ce4fa61262005f5984d465.png" width="280" alt="Hypixel shop: three languages: Chinese"></a></td></tr>
 </table>
 
 </details>
@@ -113,7 +113,7 @@ Translations are saved locally and reused after restarting. A changed text, lang
 - Wynncraft dialogue inside the server's original dialogue frame.
 - NPC/entity names, text displays and signs.
 - Scoreboards, boss bars, titles, action bars and objectives.
-- Books and supported mod interfaces, including the Shine Studio example below.
+- Books and supported mod interfaces, including the Shine Studio example above.
 - Your outgoing chat: enable **Translate Sent Chat** and use **Ctrl+Enter**.
 
 Choose the source and target language in settings. **Auto → Russian** is the default; other supported languages can be selected or entered as a custom language code.

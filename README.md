@@ -8,7 +8,7 @@ Translate Minecraft chat, items, NPC dialogue and mod interfaces with Google —
 
 ## See it in game
 
-These are real gameplay screenshots supplied by the maintainer. Images are unchanged; click any image to view it at full size. Translation is automatic and can contain mistakes or leave some labels untranslated.
+Real gameplay: English → Russian / Chinese. Click any screenshot to view it at full size.
 
 ### Items and their stats
 
@@ -115,7 +115,7 @@ Translations are saved locally and reused after restarting. A changed text, lang
 - Wynncraft dialogue inside the server's original dialogue frame.
 - NPC/entity names, text displays and signs.
 - Scoreboards, boss bars, titles, action bars and objectives.
-- Books and supported mod interfaces, including the Shine Studio example below.
+- Books and supported mod interfaces, including the Shine Studio example above.
 - Your outgoing chat: enable **Translate Sent Chat** and use **Ctrl+Enter**.
 
 Choose the source and target language in settings. **Auto → Russian** is the default; other supported languages can be selected or entered as a custom language code.
