@@ -1,37 +1,10 @@
 # Translate Any Server & Mod
 
-**Translate Minecraft text across items, chat, mods and multiplayer servers — with Google, without an API key or a local AI model.**
+**ANY SERVER. ANY MOD. YOUR LANGUAGE.**
 
-[Download the mod](https://github.com/mirray-u/Translate-Any-Server-and-Mod/releases/latest) · [Русское описание](README.ru.md) · [Report an issue](https://github.com/mirray-u/Translate-Any-Server-and-Mod/issues)
+Translate Minecraft chat, items, NPC dialogue and mod interfaces with Google — no API key or local AI model needed.
 
-**Minecraft Java 26.2 · Fabric · Free and open source · MIT**
-
-A modified version of [SimpleTranslate by baokaixina](https://github.com/baokaixina/SimpleTranslate), maintained by [mirray-u](https://github.com/mirray-u). It translates text displayed by your client in multiplayer and singleplayer. See real English → Russian / Chinese examples below.
-
-## What it can translate
-
-- Item names, descriptions, stats and hover tooltips.
-- Chat and NPC messages, automatically or on demand.
-- Wynncraft dialogue inside the server's original dialogue frame.
-- NPC/entity names, text displays and signs.
-- Scoreboards, boss bars, titles, action bars and objectives.
-- Books and supported mod interfaces, including the Shine Studio example below.
-- Your outgoing chat: enable **Translate Sent Chat** and use **Ctrl+Enter**.
-
-Choose the source and target language in settings. **Auto → Russian** is the default; other supported languages can be selected or entered as a custom language code.
-
-## What changed from SimpleTranslate
-
-| Area | This fork adds or changes |
-|---|---|
-| Translation provider | Keyless Google web translation, selected by default; no local model is required. |
-| Model API | Retained as an optional provider. Only the selected provider handles translation; there is no automatic switch between Google and AI. |
-| Wynncraft dialogue | Translated prose inside the native brown frame, while preserving the speaker label, controls and visible response layout. |
-| Long dialogue | Wraps lines and scales prose down when necessary. If it cannot fit even at 60%, the original remains visible. |
-| Requests | Batches nearby text, coalesces duplicate requests, gives dialogue priority, paces Google requests and pauses on rate limits. |
-| Stored data | Uses a separate `config/simple_translate_web` directory; original SimpleTranslate/LM Studio caches are not automatically imported. |
-
-Chat, item, book, sign and interface support, cache tools and configurable shortcuts build on the original mod. This is a fork, not an official SimpleTranslate release.
+[Русское описание](README.ru.md)
 
 ## See it in game
 
@@ -117,6 +90,8 @@ Press K in a supported interface. This example also shows current limitations: c
 
 ## Install and start
 
+**Minecraft Java 26.2 · Fabric · Free and open source · MIT**
+
 1. Use **Minecraft Java Edition 26.2** with **Fabric Loader** and **Fabric API for 26.2**. Tested with Loader **0.19.5**, Fabric API **0.155.2+26.2**, and Java **25**.
 2. Download the `.jar` from [Releases](https://github.com/mirray-u/Translate-Any-Server-and-Mod/releases/latest) and put it in your instance's `mods` folder. Remove any other SimpleTranslate JAR first: both use the same mod ID.
 3. Start Minecraft. Google is already selected, the source language is automatic and the target is Russian. Change the languages in settings if needed.
@@ -132,6 +107,31 @@ Press K in a supported interface. This example also shows current limitations: c
 | Correct a translation | Edit its entry in **Translated Cache**. |
 
 Translations are saved locally and reused after restarting. A changed text, language, provider or cache policy can require a new translation. The download contains no player config or gameplay cache.
+
+## What it can translate
+
+- Item names, descriptions, stats and hover tooltips.
+- Chat and NPC messages, automatically or on demand.
+- Wynncraft dialogue inside the server's original dialogue frame.
+- NPC/entity names, text displays and signs.
+- Scoreboards, boss bars, titles, action bars and objectives.
+- Books and supported mod interfaces, including the Shine Studio example below.
+- Your outgoing chat: enable **Translate Sent Chat** and use **Ctrl+Enter**.
+
+Choose the source and target language in settings. **Auto → Russian** is the default; other supported languages can be selected or entered as a custom language code.
+
+## What changed from SimpleTranslate
+
+| Area | This fork adds or changes |
+|---|---|
+| Translation provider | Keyless Google web translation, selected by default; no local model is required. |
+| Model API | Retained as an optional provider. Only the selected provider handles translation; there is no automatic switch between Google and AI. |
+| Wynncraft dialogue | Translated prose inside the native brown frame, while preserving the speaker label, controls and visible response layout. |
+| Long dialogue | Wraps lines and scales prose down when necessary. If it cannot fit even at 60%, the original remains visible. |
+| Requests | Batches nearby text, coalesces duplicate requests, gives dialogue priority, paces Google requests and pauses on rate limits. |
+| Stored data | Uses a separate `config/simple_translate_web` directory; original SimpleTranslate/LM Studio caches are not automatically imported. |
+
+Chat, item, book, sign and interface support, cache tools and configurable shortcuts build on the original mod. This is a fork, not an official SimpleTranslate release.
 
 ## Compatibility and privacy
 
