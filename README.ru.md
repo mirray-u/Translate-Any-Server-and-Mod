@@ -1,8 +1,8 @@
-# Mods & Servers - In Your Language
+# Translate Any Server & Mod
 
 **Перевод текстов Minecraft: предметов, чата, модов и серверов — через Google, без API-ключа и локальной нейросети.**
 
-[Скачать мод](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/releases/latest) · [English](README.md) · [Сообщить об ошибке](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/issues)
+[Скачать мод](https://github.com/mirray-u/Translate-Any-Server-and-Mod/releases/latest) · [English](README.md) · [Сообщить об ошибке](https://github.com/mirray-u/Translate-Any-Server-and-Mod/issues)
 
 **Minecraft Java 26.2 · Fabric · Бесплатно · Открытый код · MIT**
 
@@ -118,7 +118,7 @@ Bandit → Бандит. Перевод имён сущностей можно �
 ## Установка и управление
 
 1. Нужны **Minecraft Java Edition 26.2**, **Fabric Loader** и **Fabric API для 26.2**. Проверено с Loader **0.19.5**, Fabric API **0.155.2+26.2** и Java **25**.
-2. Скачайте `.jar` из [Releases](https://github.com/mirray-u/Mods-and-Servers-In-Your-Language/releases/latest) и положите в папку `mods` своей сборки. Удалите другой JAR SimpleTranslate: идентификатор мода у них одинаковый.
+2. Скачайте `.jar` из [Releases](https://github.com/mirray-u/Translate-Any-Server-and-Mod/releases/latest) и положите в папку `mods` своей сборки. Удалите другой JAR SimpleTranslate: идентификатор мода у них одинаковый.
 3. После запуска Google уже выбран. Исходный язык определяется автоматически, целевой — русский. Языки можно изменить в настройках.
 4. Настройки открываются на **U** по умолчанию или через необязательный **Mod Menu**. Для клиентского перевода установка на сервер не нужна.
 

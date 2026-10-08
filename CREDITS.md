@@ -3,7 +3,7 @@
 SimpleTranslate: baokaixina, copyright 2026, MIT.
 Original source: https://github.com/baokaixina/SimpleTranslate
 
-Mods & Servers - In Your Language (formerly SimpleTranslate Web): mirray-u.
+Translate Any Server & Mod (formerly SimpleTranslate Web): mirray-u.
 Google web provider and Wynncraft dialogue
 rendering changes were developed with AI assistance. Existing translation
 surfaces and utility features originate from SimpleTranslate.
